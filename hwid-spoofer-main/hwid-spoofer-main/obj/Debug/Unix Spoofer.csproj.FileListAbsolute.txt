@@ -1,7 +1,0 @@
-C:\Users\bradl\source\repos\Unix Spoofer\bin\Debug\Unix Spoofer.exe.config
-C:\Users\bradl\source\repos\Unix Spoofer\bin\Debug\Unix Spoofer.exe
-C:\Users\bradl\source\repos\Unix Spoofer\bin\Debug\Unix Spoofer.pdb
-C:\Users\bradl\source\repos\Unix Spoofer\obj\Debug\Unix Spoofer.csprojAssemblyReference.cache
-C:\Users\bradl\source\repos\Unix Spoofer\obj\Debug\Unix Spoofer.csproj.CoreCompileInputs.cache
-C:\Users\bradl\source\repos\Unix Spoofer\obj\Debug\Unix Spoofer.exe
-C:\Users\bradl\source\repos\Unix Spoofer\obj\Debug\Unix Spoofer.pdb
